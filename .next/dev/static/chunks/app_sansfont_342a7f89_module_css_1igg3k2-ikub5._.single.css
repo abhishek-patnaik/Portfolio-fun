@@ -1,0 +1,26 @@
+/* [project]/app/sansfont_342a7f89.module.css [app-client] (css) */
+@font-face {
+  font-family: sansFont;
+  src: url("../media/Geist_Variable-s.p.0mrjj4bg00-he.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: sansFont Fallback;
+  src: local(Arial);
+  ascent-override: 94.56%;
+  descent-override: 27.76%;
+  line-gap-override: 0.0%;
+  size-adjust: 106.28%;
+}
+
+.sansfont_342a7f89-module__dtp8zq__className {
+  font-family: sansFont, sansFont Fallback;
+}
+
+.sansfont_342a7f89-module__dtp8zq__variable {
+  --font-sans: "sansFont", "sansFont Fallback";
+}
+
+/*# sourceMappingURL=app_sansfont_342a7f89_module_css_1igg3k2-ikub5._.single.css.map*/

@@ -1,0 +1,15 @@
+{
+  "app": {
+    "[project]/app/page": [
+      "static/media/chakra_petch_latin_400_normal-s.p.3l7k-5329by9x.woff2",
+      "static/media/chakra_petch_latin_500_normal-s.p.2lcw2inh66lu4.woff2",
+      "static/media/chakra_petch_latin_600_normal-s.p.34i55il26mb_0.woff2",
+      "static/media/chakra_petch_latin_700_normal-s.p.1s--kcv7ff0_e.woff2",
+      "static/media/Geist_Variable-s.p.0mrjj4bg00-he.woff2",
+      "static/media/GeistMono_Variable-s.p.3ms9vq719j3f8.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

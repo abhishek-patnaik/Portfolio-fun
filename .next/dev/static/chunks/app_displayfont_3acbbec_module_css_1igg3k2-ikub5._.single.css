@@ -1,0 +1,51 @@
+/* [project]/app/displayfont_3acbbec.module.css [app-client] (css) */
+@font-face {
+  font-family: displayFont;
+  src: url("../media/chakra_petch_latin_400_normal-s.p.3l7k-5329by9x.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: displayFont;
+  src: url("../media/chakra_petch_latin_500_normal-s.p.2lcw2inh66lu4.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: displayFont;
+  src: url("../media/chakra_petch_latin_600_normal-s.p.34i55il26mb_0.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: displayFont;
+  src: url("../media/chakra_petch_latin_700_normal-s.p.1s--kcv7ff0_e.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: displayFont Fallback;
+  src: local(Arial);
+  ascent-override: 96.3%;
+  descent-override: 29.9%;
+  line-gap-override: 0.0%;
+  size-adjust: 103.01%;
+}
+
+.displayfont_3acbbec-module__jEbQzW__className {
+  font-family: displayFont, displayFont Fallback;
+}
+
+.displayfont_3acbbec-module__jEbQzW__variable {
+  --font-display: "displayFont", "displayFont Fallback";
+}
+
+/*# sourceMappingURL=app_displayfont_3acbbec_module_css_1igg3k2-ikub5._.single.css.map*/
